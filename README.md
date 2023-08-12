@@ -9,6 +9,6 @@ I also enjoy Machine Learning, Deep Learning and Mathematics. One of my favourit
 Being a recent graduate one of my favourite areas of study was Advanced Computer Architecture, in particular the processor. I loved the mathematics behind it and plan to emulate such hardware throughout the coming months. 
 Once comfortable in Rust I am to create my first emulator - CHIP-8.
 
-Currently I am working on a blog written in a Rust back end with Rocket and Diesel. All code will be posted and updated.
+Currently I am working on a text editor in  Rust with crossterm. For my interview preparation I am covering essential DS & Algo's and posting on here so people can view / learn. All code will be posted and updated.
 
 Thanks for reading, Etdoh.
